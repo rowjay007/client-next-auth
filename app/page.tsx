@@ -14,7 +14,7 @@ export default async function Home() {
       ) : (
         <div> Not signed in </div>
       )}
-      <Button>Click me</Button>
+     
     </>
   );
 }
